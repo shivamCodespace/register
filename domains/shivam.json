@@ -1,0 +1,11 @@
+{
+  "description": "Shivam Shukla's Portfolio",
+  "repo": "ShivamCodespace/port-folio",
+  "owner": {
+    "username": "ShivamCodespace",
+    "email": "sonu8565shukla@gmail.com"
+  },
+  "record": {
+    "CNAME": "port-folio-khaki-eight.vercel.app"
+  }
+}
